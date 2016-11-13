@@ -1,0 +1,43 @@
+for( int i = ); i < 45 - 3; i++){
+
+	if(crop.maxTemp < Object.maxTemp[i] && crop. day 2, && crop vs day 3)
+		if(sum = temp[i -> i + 6] >= crop.rainPerWeek *1.2)
+			checkPercent += 10/42;
+		else
+			append error message
+	} else {
+		checkPercent += 20/42;
+	}
+
+	f(crop.minTemp < Object.minTemp[i] && crop. day 2, && crop vs day 3)
+		append error message
+	} else {
+		checkPercent += 20/42;
+	}
+}
+
+
+
+for(int i = 0; i < 45 - 6; i++){
+
+	for(j = 0; j < 7; j++)
+		if(object.pp > 0.5)
+			sum = temp[i]
+
+	 if(crop.rainFallPerWeek < sum){
+		append error message
+	} else {
+		checkPercent += 60/39
+	}
+}
+
+
+end checks
+
+if(checkPercent < 40){
+	don’t grow
+} else if (checkPercent < 70){
+	grow, but careful
+} else {
+	grow: Display error messages though.
+}
